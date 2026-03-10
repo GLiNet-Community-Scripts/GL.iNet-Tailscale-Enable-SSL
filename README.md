@@ -41,10 +41,12 @@ The scripts are:
 - Flint 3 (GL-BE9300)
 - Slate 7 (GL-BE3600)
 - Puli AX (GL-XE3000)
+- Slate 7 Pro (GL-BE10000)
 - Other GL.iNet routers using nginx for HTTPS should work
 
 ### KVM
-- GL-RM1 (kvmd)
+- Comet (GL-RM1)
+- Comet Pro (GL-RM10)
 - Other GLKVM devices using kvmd should work
 
 ---
