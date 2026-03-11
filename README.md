@@ -40,6 +40,7 @@ The scripts are:
 ### Routers
 - Flint 3 (GL-BE9300)
 - Slate 7 (GL-BE3600)
+- Spitz AX (GL-X3000)
 - Puli AX (GL-XE3000)
 - Slate 7 Pro (GL-BE10000)
 - Other GL.iNet routers using nginx for HTTPS should work
